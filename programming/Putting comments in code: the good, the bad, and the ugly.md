@@ -10,4 +10,4 @@ Here’s an example of a documentation comment from a popular JavaScript library
 
 If you compare these comments to their online documentation, you’ll see it’s an exact match.
 If you write documentation comments you should ensure that they follow a consistent standard and that they are easily distinguishable from any inline clarification comments you may also want to add. Some popular and well supported standards and tools include JSDoc for JavaScript, DocFx for dotNet, and JavaDoc for Java.
-The downside of these kinds of comments is that they can make your code very “noisy” and harder to read for anyone who is actively involved in maintaining it. The good news is that most code editors support “code folding” which allows us to collapse the comments so we can focus on the code.
+The downside of these kinds of comments is that they can make your code very “noisy” and harder to read for anyone who is actively involved in maintaining it. The good news is that most code editors support “code folding” which allows us to collapse the comments so we can focus on the code..
