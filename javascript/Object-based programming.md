@@ -16,11 +16,11 @@ In JavaScript, you can make your own objects (like the document object) and even
 
 Advantages
 
-1.Javascript is executed on the client side
+1.Javascript is executed on the client side.
 
-2.Javascript is a relatively easy language
+2.Javascript is a relatively easy language.
 
-3.Javascript is relatively fast to the end user
+3.Javascript is relatively fast to the end user.
 
 4.Extended functionality to web pages.
 
