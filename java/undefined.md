@@ -1,2 +1,2 @@
 my new file contents
-test
+test update
