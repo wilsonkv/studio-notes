@@ -5,3 +5,5 @@ sd
 as
 deee
 eeedddd
+
+**Center an Image**
