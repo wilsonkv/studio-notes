@@ -13,3 +13,14 @@ As with many other programming languages, objects in JavaScript have their field
 The philosophy of object-based programming says that program code should be as modular as possible. Once you've written and tested a function, it should be possible to slot it into any program or script needing that kind of functionality and just expect it to work, because it's already been tried and tested on an earlier project.
 
 In JavaScript, you can make your own objects (like the document object) and even define your own variable types. Although JavaScript allows the creation of objects, access protection is not directly available; as such, it is possible to bypass this intent by directly accessing fields or methods. To minimize the impact of these issues, you may want to ensure that methods are properly described and cover known situations of use, and to avoid directly accessing methods or fields that are designed to hold the internal state of the object.
+
+Advantages
+
+1.Javascript is executed on the client side
+
+2.Javascript is a relatively easy language
+
+3.Javascript is relatively fast to the end user
+
+4.Extended functionality to web pages
+
