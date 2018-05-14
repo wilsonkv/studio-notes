@@ -22,5 +22,5 @@ Advantages
 
 3.Javascript is relatively fast to the end user.
 
-4.Extended functionality to web pages.
+4.Extended functionality to web pages
 
