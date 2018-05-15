@@ -1,6 +1,6 @@
 
 
-![](https://media.giphy.com/media/3o6EhWs5qeqi5ENCzm/giphy.gif)
+![](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 As the title states, JavaScript closures have always been a bit of a mystery to me. I have read multiple articles, I have used closures in my work, sometimes I even used a closure without realizing I was using a closure.
 Recently I went to a talk where someone really explained it in a way it finally clicked for me. I’ll try to take this approach to explain closures in this article. Let me give credit to the great folks at CodeSmith and their JavaScript The Hard Parts series.
 Before we start
